@@ -3,6 +3,6 @@
     "jest": "^22.4.2"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   }
 }
